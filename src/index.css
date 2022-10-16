@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("https://transparenttextures.com/patterns/brushed-alum.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  font-family: sans-serif;
+  margin: 3rem;
+  background-color: white;
+  font-family: "Montserrat", sans-serif;
+}
